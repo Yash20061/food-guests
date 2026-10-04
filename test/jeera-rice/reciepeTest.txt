@@ -1,0 +1,4 @@
+1. Verify ingredients.
+2. Test cooking time.
+3. Check taste.
+
